@@ -1,0 +1,12 @@
+{
+  "name": "aws-demo",
+  "version": "1.0.0",
+  "description": "Simple AWS S3 file upload demo",
+  "type": "module",
+  "dependencies": {
+    "aws-sdk": "^2.1590.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
